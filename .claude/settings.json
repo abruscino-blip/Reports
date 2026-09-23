@@ -1,5 +1,11 @@
 {
   "permissions": {
-    "defaultMode": "bypassPermissions"
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(mkdir:*)",
+      "Bash(wc:*)",
+      "mcp__claude_ai_microsoft_365__*"
+    ],
+    "additionalDirectories": ["/tmp/work"]
   }
 }
