@@ -6,6 +6,7 @@
       "Bash", "Read", "Edit", "Write", "NotebookEdit", "Glob", "Grep",
       "WebFetch", "WebSearch", "Task", "TodoWrite", "Artifact",
       "Bash(python3:*)", "Bash(mkdir:*)", "Bash(wc:*)",
+      "Bash(cp:*)", "Bash(tail:*)",
       "mcp__claude_ai_microsoft_365__*", "mcp__Microsoft_365__*",
       "mcp__github__*", "mcp__claude-code-remote__*"
     ],
